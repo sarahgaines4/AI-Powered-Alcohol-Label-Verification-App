@@ -1,5 +1,4 @@
 AI-Powered Alcohol Label Verification App
-Project Description (≤350 characters)
 
 Streamlit-based prototype that simulates AI-assisted alcohol label verification for TTB compliance. Users upload label images and enter application data to generate automated compliance reports, reducing manual review workload and improving efficiency for high-volume label processing.
 
